@@ -1,0 +1,15 @@
+# https://.python.org/
+
+# comentario en una línea
+
+"""
+  todo lo que escriba
+  aqui es también comentario
+  en varias líneas
+"""
+
+'''
+  todo lo que escriba
+  aqui es también comentario
+  en varias líneas
+'''
